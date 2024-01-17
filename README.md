@@ -4,10 +4,13 @@
 _In this repository, you will find various files related to a completed project. These include a detailed project report, a file containing the necessary libraries to run the code, a geojson file with identification of all countries in the world, the dashboard logo, and the Python code for the project implementation._
 
 Files:
-* Water Potability.ipynb: contains the Jupyter notebook with the project code
-* water_potability.xls: contains the data used in the project
-* Water Quality Prediction Report.pdf: project report in English
-* Relatório da Previsão da Qualidade da Água.pdf: project report in Portuguese
+* [Covid Dashboard.py](<Covid Dashboard.py>): contains the Python code for the project
+* [countries.geojson](countries.geojson): contains the identification of all countries in the word used in the project map
+* [Covid-19 Dashboard-EN.pdf](<Covid-19 Dashboard-EN.pdf>): project report in English
+* [Covid-19 Dashboard.pdf](<Covid-19 Dashboard.pdf>): project report in Portuguese
+* [requirements.txt](requirements.txt): contains the necessary libraries to run the project
+* ![logo_covid.png](assets/logo_covid.png): project logo
+
   
 **Objective:**
 This project primary objective is to build a Dashboard using the Dash library in Python. The Dashboard aims to illustrate active/total cases or deaths for the selected date, vaccination data, and global or country-specific hospitalizations. The user can choose the country, and the Dashboard will regularly update its data accordingly.
@@ -27,10 +30,13 @@ _Implementation:_ Creation of a title consisting of an eye-catching logo, name, 
 _Neste repositório, encontrar-se-ão diversos ficheiros relacionados com um projeto concluído. Incluem-se um relatório detalhado do projeto, um ficheiro com as bibliotecas necessárias para correr o código, um ficheiro geojson com identificação de todos os paises do mundo, o logotipo da dashboard e o código em Python da implementação do projeto._
 
 Ficheiros:
-* Water Potability.ipynb: contém o jupyter notebook com o código do projeto
-* water_potability.xls: contém os dados usados no projeto
-* Water Quality Prediction Report.pdf: relatório do projeto em inglês
-* Relatório da Previsão da Qualidade da Água.pdf: relatório do projeto em português
+* [Covid Dashboard.py](<Covid Dashboard.py>): contém o código Python do projeto
+* [countries.geojson](countries.geojson): contém a identificação de todos os paises do mundo usados no mapa do projeto
+* [Covid-19 Dashboard-EN.pdf](<Covid-19 Dashboard-EN.pdf>): relatório do projeto em inglês
+* [Covid-19 Dashboard.pdf](<Covid-19 Dashboard.pdf>): relatório do projeto em português
+* [requirements.txt](requirements.txt): contém as bibliotecas necessárias para correr o projecto
+* ![logo_covid.png](assets/logo_covid.png): logotipo do projecto
+
 **Objetivo:**
 O objetivo deste projeto é construir uma Dashboard, através da biblioteca dash do python, que visa ilustrar casos ou mortes ativos/totais/para data selecionada, vacinação e internados globalmente ou para determinado país que o utilizador escolha e que atualize os seus dados regularmente.
 Como tal, foi escolhido um dataset que responde ao resultado pretendido.
